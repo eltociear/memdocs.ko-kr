@@ -1,0 +1,18 @@
+### YamlMime:ZonePivotGroups
+groups:
+  - id: security-baseline-settings-one
+    title: 보안 기준
+    prompt: 보안 기준 선택
+    pivots:
+      - id: windows-mdm
+        title: Windows MDM
+      - id: microsoft-defender-atp
+        title: Microsoft Defender Advanced Threat Protection
+  - id: windows-mdm-versions
+    title: Windows MDM 기준 버전
+    prompt: 버전 선택
+    pivots:
+      - id: mdm-may-2019
+        title: 2019년 5월
+      - id: mdm-preview
+        title: 미리 보기 - 2018년 10월
