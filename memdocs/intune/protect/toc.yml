@@ -265,6 +265,12 @@
               href: security-baseline-settings-defender-atp.md
             - name: Microsoft Edge 기준선 설정
               href: security-baseline-settings-edge.md
+        - name: 바이러스 백신 정책 설정
+          items:
+            - name: macOS Defender 바이러스 백신 설정
+              href: antivirus-microsoft-defender-settings-macos.md
+            - name: Windows 10 Microsoft Defender 바이러스 백신 설정
+              href: antivirus-microsoft-defender-settings-windows.md
         - name: Windows 업데이트 설정
           href: windows-update-settings.md
         - name: 규정 준수 정책 설정 - Android

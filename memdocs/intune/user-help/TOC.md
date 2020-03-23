@@ -16,6 +16,7 @@
 #### [Android 디바이스 등록](enroll-device-android-company-portal.md)  
 #### [Android 회사 프로필에 등록](enroll-device-android-work-profile.md)
 #### [Microsoft Intune 앱에 등록](enroll-device-android-microsoft-intune-app.md)
+### [새 디바이스 관리 설치로 이동](move-to-new-device-management-setup.md)
 ### [디바이스에서 관리되는 앱 사용](use-managed-apps-on-your-device-android.md)
 ### [디바이스 암호화](encrypt-your-device-android.md)
 ### [PIN 또는 암호 설정](set-your-pin-or-password-android.md)

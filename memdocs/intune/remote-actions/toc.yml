@@ -49,7 +49,9 @@
           href: device-rename.md
         - name: 알림 보내기
           href: custom-notifications.md
-        - name: 원격 제어 모바일 디바이스
+        - name: 원격으로 모바일 디바이스 지원
+          href: remote-assist-mobile-devices.md
+        - name: 원격 관리에 TeamViewer 사용
           href: teamviewer-support.md
         - name: 디바이스 동기화
           href: device-sync.md
